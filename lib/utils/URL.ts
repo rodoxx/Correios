@@ -1,6 +1,6 @@
 enum URL {
   BASECEP = 'https://viacep.com.br/ws',
-  BASECORREIOS = 'https://cors-anywhere.herokuapp.com/http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx',
+  BASECORREIOS = 'https://cors.bridged.cc/http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx',
   BASERASTREIO = 'https://www.linkcorreios.com.br',
   WIDENET = 'https://cep.widenet.host/busca-cep/api/cep',
 }
